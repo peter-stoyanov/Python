@@ -1,0 +1,7 @@
+- nltk install = python -m pip install nltk
+- A token is the technical name for a sequence of characters — such as hairy, his, or :) — that we want to treat as a group
+- A word type is the form or spelling of the word independently of its specific occurrences in a text — that is, the word considered as a unique item of vocabulary.
+- words that occur once only, the so-called hapaxes
+- A collocation is a sequence of words that occur together unusually often (red wine)
+- word pairs, also known as bigrams
+- A word "token" is a particular appearance of a given word in a text; a word "type" is the unique form of the word as a particular sequence of letters. We count word tokens using len(text) and word types using len(set(text)).

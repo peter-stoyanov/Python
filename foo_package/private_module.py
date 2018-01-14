@@ -1,6 +1,6 @@
 """Doc"""
 
-def main():
+def privateDoSmth():
     """Doc"""
 
 if __name__ == '__main__':
