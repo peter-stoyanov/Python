@@ -21,11 +21,11 @@ def process_content(tokenized):
         for i in tokenized:
             words = nltk.word_tokenize(i)
             tagged = nltk.pos_tag(words)
-            chunk_gram = r"""Chunk: {<RB.?>*<VB.?>*<NNP>+<NN>?}"""
+            chunk_grammar = r"""Chunk: {<RB.?>*<VB.?>*<NNP>+<NN>?}"""
             # chinking = specify what to exclude when searching  } .. {
-            chink_gram = r"""Chunk: {<.*>+}
+            chink_grammar = r"""Chunk: {<.*>+}
                                     }<VB.?|IN|DT|TO>+{"""
-            chunk_parser = nltk.RegexpParser(chunk_gram)
+            chunk_parser = nltk.RegexpParser(chunk_grammar)
             chunked = chunk_parser.parse(tagged)
             chunked.draw()
     except Exception as exc:
