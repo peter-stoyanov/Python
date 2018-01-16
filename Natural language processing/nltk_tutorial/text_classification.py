@@ -22,6 +22,7 @@ def main():
         all_words.append(word.lower())
 
     all_words = nltk.FreqDist(all_words)
+
     print(all_words.most_common(15))
     print(all_words["stupid"])
 

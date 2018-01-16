@@ -6,7 +6,7 @@ import nltk
 def main():
     """Nltk default Named Entity Extractor"""
 
-    with open(os.getcwd() + "\\Natural language processing\\articles\\sampleArticle4.txt", 'r') as file:
+    with open(os.getcwd() + "\\Natural language processing\\articles\\sampleArticle3.txt", 'r') as file:
         sample = file.read()
 
     # sentence segmenter
