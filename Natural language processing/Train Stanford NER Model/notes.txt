@@ -2,4 +2,10 @@ To train the model run this in the terminal:
 
 java -cp D:\stanford-ner-2017-06-09\stanford-ner.jar edu.stanford.nlp.ie.crf.CRFClassifier -prop commetric-data.prop
 
+- setting for the prop file
+# This specifies the order of the CRF: order 1 means that features
+# apply at most to a class pair of previous class and current class
+# or current class and next class.
+maxLeft=1
+
 

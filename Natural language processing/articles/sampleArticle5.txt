@@ -1,0 +1,62 @@
+MM&M's top health technology stories of 2016 Photo credit: Jon Simon/Feature Photo Service for IBM 
+
+ 
+1. How Watson for Oncology is advancing cancer care 
+ 
+Three years ago, Memorial Sloan-Kettering and IBM Watson formed a partnership to develop Watson for Oncology, a cognitive computing system that can analyze large volumes of data including medical literature, patient health records, and clinical trials, to offer personalized, evidence-based treatment recommendations for cancer patients. 
+ 
+Photo credit: Klick Health 
+
+ 
+2.  3 health tech innovations experts say will revolutionalize healthcare 
+ 
+“This is the most interesting time in the history of healthcare and medicine,” says Zen Chu, MD of Accelerated Medical Ventures and senior lecturer at the MIT Sloan School of Management. “We've got so many new technologies and redesigned experiences impacting both the value we deliver, and also the value patients are getting from healthcare.” 
+ 
+Photo credit: Facebook 
+ 
+3. 10 things for pharma marketers to know about Facebook and Instagram 
+ 
+“When you think back in the day, people used to have really personal relationships with their physician and pharmacist. We got a little away from that, but we believe that Facebook can help bring that back and help pharma reconnect with people one-on-one,” said Facebook Health industry manager Danielle Salowski. 
+ 
+Photo credit: Uncalno Tekno/Creative Commons 
+ 
+4. 8 ways for pharma to improve the way it uses Twitter 
+ 
+When it comes to incorporating digital and social media in their marketing strategies, drugmakers' efforts are still overshadowed by fear. That's according to Mary Ann Belliveau, Twitter's national health and wellness director. There's a misperception that drugmakers can't use the platform because of regulatory limitations but in fact many firms are doing it and doing it well, she noted. 
+ 
+Photo credit: Andy De/Creative Commons 
+ 
+5. Pharma turns to mobile, population data to market to docs 
+ 
+There are myriad reasons doctors tell marketers they'd like to be approached through digital channels. Some point to their status as employees of a system or organization that limits (or even bans) contact with sales reps, while others merely note that they're extremely busy. But for many others, perhaps it's because — like people in basically every other profession — they sure love them some digital. 
+ 
+Photo credit: Creative Commons/BTNHD Production 
+ 
+6. Pharma companies turn to wearables to improve R&D 
+ 
+Pfizer, UCB, Apple, and IBM are just a few of the other companies testing out mobile technology for patients with Parkinson's. Apple's ResearchKit and Pfizer's and IBM's wearable sensor system are both being used to gather data in real time to better understand the disease. 
+ 
+
+ 
+7. Healthcare marketers: Don't forget about the baby boomers 
+ 
+this is a ripe demographic for digital health services and devices. In fact, it's now a matter of urgency: Boomers are less healthy and more costly, from a systemic perspective, than previous generations. 
+ 
+Photo credit: Sermo 
+ 
+8. Sermo opens up platform to healthcare marketers 
+ 
+Sermo, a social-networking platform for physicians, launched a new free feature that allows pharma and healthcare marketers to engage with its roughly 550,000 physician members. 
+ 
+Photo credit: Insulet 
+ 
+9. Devicemakers eye market for drug adherence 
+ 
+A number of new companies are developing technologies that seek to address how patients take their medicines, as part of a broader effort to improve adherence among those patients. Insulet is one example. The company produces small skin-adhesive pods called OmniPods that administer the delivery of subcutaneous drugs. 
+ 
+Photo credit: Sproutel 
+ 
+10. How a startup is educating kids with diabetes with a teddy bear 
+ 
+Through the use of animated books and sensors installed using an Android tablet in Sproutel's Jerry the Bear, children can learn more about their condition by acting as caregivers themselves, feeding food to the bear, administering insulin, and monitoring his blood glucose levels.   
+   Medical Marketing & Media Return To Top

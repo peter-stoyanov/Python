@@ -14,13 +14,13 @@ def main():
     os.environ['JAVAHOME'] = java_path
 
     stanford_classifier = 'D:\\stanford-ner-2017-06-09\\classifiers\\english.all.3class.distsim.crf.ser.gz'
-    stanford_commetric_classifier = os.getcwd() + "\\Natural language processing\\Train Stanford NER Model\\ner-model-commetric.ser.gz"
+    #stanford_classifier = os.getcwd() + "\\Natural language processing\\Train Stanford NER Model\\ner-model-commetric.ser.gz"
     stanford_ner_path = 'D:\\stanford-ner-2017-06-09\\stanford-ner.jar'
 
     # Creating Tagger Object
     st_ner_tagger = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
 
-    with open(os.getcwd() + "\\Natural language processing\\articles\\sampleArticle3.txt", 'r') as file:
+    with open(os.getcwd() + "\\Natural language processing\\articles\\sampleArticle5.txt", 'r') as file:
         sample = file.read()
 
     tokenized_text = word_tokenize(sample)
