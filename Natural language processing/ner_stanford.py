@@ -1,10 +1,11 @@
-# -*- coding: utf-8 -*-
 """Stanford Named Entity Extractor"""
 
 import os
 from itertools import groupby
 from nltk.tag import StanfordNERTagger
 from nltk.tokenize import word_tokenize
+from ner_combo_tagger import NERComboTagger
+
 
 def main():
     """Stanford Named Entity Extractor"""
@@ -14,13 +15,15 @@ def main():
     os.environ['JAVAHOME'] = java_path
 
     stanford_classifier = 'D:\\stanford-ner-2017-06-09\\classifiers\\english.all.3class.distsim.crf.ser.gz'
-    #stanford_classifier = os.getcwd() + "\\Natural language processing\\Train Stanford NER Model\\ner-model-commetric.ser.gz"
+    stanford_classifier_commetric = os.getcwd() + "\\Natural language processing\\Train Stanford NER Model\\ner-model-commetric.ser.gz"
     stanford_ner_path = 'D:\\stanford-ner-2017-06-09\\stanford-ner.jar'
 
     # Creating Tagger Object
-    st_ner_tagger = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
+    # st_ner_tagger = StanfordNERTagger(stanford_classifier, stanford_ner_path, encoding='utf-8')
+    st_ner_tagger = NERComboTagger(
+        stanford_classifier, stanford_ner_path, encoding='utf-8', stanford_ner_models=stanford_classifier+","+stanford_classifier_commetric)
 
-    with open(os.getcwd() + "\\Natural language processing\\articles\\sampleArticle5.txt", 'r') as file:
+    with open(os.getcwd() + "\\Natural language processing\\articles\\sampleArticle6.txt", 'r') as file:
         sample = file.read()
 
     tokenized_text = word_tokenize(sample)

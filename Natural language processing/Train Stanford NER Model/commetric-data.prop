@@ -1,5 +1,9 @@
 #location of the training file
-trainFile = formatted_train_data.tsv
+
+#trainFile = formatted_train_data.tsv
+
+trainFileList = formatted train data\\formatted_train_data_14354.tsv,formatted train data\\formatted_train_data_14209.tsv,formatted train data\\formatted_train_data_14342.tsv,formatted train data\\formatted_train_data_14087.tsv,formatted train data\\formatted_train_data_14164.tsv
+
 #location where you would like to save (serialize to) your
 #classifier; adding .gz at the end automatically gzips the file,
 #making it faster and smaller

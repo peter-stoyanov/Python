@@ -1,0 +1,8 @@
+MM&M's top health technology stories of 2016 Photo credit: Jon Simon/Feature Photo Service for IBM 
+
+ 
+1. How Watson for Oncology is advancing cancer care 
+ 
+Three years ago, Memorial Sloan-Kettering and IBM Watson formed a partnership to develop Watson for Oncology, a cognitive computing system that can analyze large volumes of data including medical literature, patient health records, and clinical trials, to offer personalized, evidence-based treatment recommendations for cancer patients. 
+ 
+Photo credit: Klick Health 

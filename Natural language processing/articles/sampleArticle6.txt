@@ -1,0 +1,39 @@
+Scientists Gear Up to Run for Office In a World of “Alternate Facts”
+Greetings, Daily readers. This is Sy taking over for Cliff. 
+ 
+It’s 2017 and we live in a world of “alternate facts” and fake news. The nascent Trump administration has wasted little time in challenging well-established science, including the reality of man-made climate change and the safety of vaccines . The president’s decision to impose a gag order on numerous federal agencies, including the U.S. Department of Agriculture and Environmental Protection Agency, stunned many observers and cut off vital lines of communication with journalists. (The EPA has also been ordered to freeze all grants and contracts until further notice.) 
+ 
+At times, it can seem like objective truth itself is under assault. But one group isn’t ready to let reality slip away without a fight. 
+ 
+The Atlantic has a fascinating piece out on 314 Action, a newly formed nonprofit that’s attempting to promote science to the public and elected officials alike (the “314” is a reference to pi). “314 Action is concerned that STEM education in the United States is falling further and further behind the rest of the world, that our political leaders continue to deny scientific facts and that Congress fails to fully fund scientific research so we can solve pressing environmental issues like climate change and social problems like gun violence,” says the group on its website . 
+ 
+One of 314 Action’s biggest goals is to get STEM leaders into elected office so that they can change the course of the debate from the inside. “A lot of scientists traditionally feel that science is above politics but we're seeing that politics is not above getting involved in science,” said Shaughnessy Naughton, the group’s founder, in an interview with the Atlantic . “We're losing, and the only way to stop that is to get more people with scientific backgrounds at the table.” 
+ 
+Congress is overwhelmingly filled with lawyers and business people. The closest thing there is to a scientific contingent is the smattering of physicians in the House and Senate. But even many of these individuals have professed some controversial views on scientific issues, including on climate change and vaccine safety. 
+ 
+314 Action’s science-driven goal may be noble. But achieving it will be an uphill battle. And as the scientists-turned-politicians who get an assist from the group will soon learn, it’s one thing to have the facts – convincing constituents and the public at large that they’re right is another matter entirely. 
+ 
+Read on for the day’s news. 
+     Sy Mukherjee      @the_sy_guy       sayak.mukherjee@fortune.com     DIGITAL HEALTH 
+Shark Tank-funded smartphone breathalyzer slammed by FTC for false claims. Breathometer, the digital startup that wowed Shark Tank investors like Mark Cuban with its smartphone-connected breathalyzer accessories, has reached a settlement with the Federal Trade Commission over inaccurate marketing claims. The company had advertised its products as comparable to those used by law enforcement and said they'd undergone government-grade testing; the FTC alleged that neither of these claims were actually true and that the devices often underrepresented blood alcohol levels. Breathometer will have to issue full refunds to customers who bought the product and the company is barred from making similar claims in the future absent rigorous testing.  ( Fortune ) 
+ 
+Big pharmas band together to give health care providers easy digital access to drug info. A consortium of six pharmaceutical giants - Allergan, AstraZeneca, Biogen, GlaxoSmithKline, Novartis, and Pfizer - are joining forces with life sciences IT firm Veeva Systems to create a group called Align Biopharma. Its purpose? Providing doctors and health care providers with a simple way to digitally access information about drugs. This is a hotly sought solution in physicians' offices as the number of in-person sales rep visits dwindle and the number of available medicines continues to balloon. Doctors must often maintain scores of logins for various pharmaceutical companies' informational websites for health care providers. Align wants to bring that number down to a single login that opens up data on thousands of drugs.  ( FiercePharma ) 
+ INDICATIONS 
+Novartis unveils ambitious cancer immunotherapy, late-stage pipeline plans. Pharma giant Novartis is building itself quite the experimental drug pipeline. And during its fourth quarter earnings call this morning, the company asserted its belief that it has no less than 13 potential blockbuster medicines in late-stage trials. And one new addition to the list is particularly intriguing: CTL019, its chimeric antigen receptor T-cell (CAR-T) therapy. As Daily readers know, CAR-T is one of the most closely-watched new technologies in cancer therapeutics. It involves extracting killer immune T-cells and turning them into cancer-targeting machines before pumping them back into a patient's body. Novartis, Kite Pharma, and a number of other drug makers are in a race to get the first approved CAR-T therapy on the market. And Novartis' update today shows that it thinks the drugs have massive market potential. 
+ 
+Shkreli hits back hard at PhRMA over drug pricing hypocrisy. Biopharma's drug pricing black sheep is on a mission to show that he's just one of the flock. Martin Shkreli, who in some ways helped nationalize the drug price hike uproar, has launched a new website called "Pharma Skeletons" that outlines numerous Pharmaceutical Research and Manufacturers of America (PhRMA) member companies that have indulged in extravagant price increases. Shkreli felt compelled to hit back at PhRMA (which kicked out both him and his former company Turing after the 5,000% price hike that put Shkreli on the map) because its president and CEO, Stephen Ubl, called out Shkreli as unrepresentative of the industry while discussing a massive new PhRMA PR campaign meant to win over hearts and minds.  ( Fortune ) 
+ 
+Could Gilead's hepatitis C superstars have a safety problem? A new report published by the Institute for Safe Medication Practices today raises safety concerns about nine antiviral drugs that are used to treat hepatitis C - including Gilead's game-changing hep C cures Sovaldi and Harvoni. The report is far from conclusive and the number of patients experiencing the adverse events is small (the report also states that it's unclear if it's the drugs themselves that are causing the side effects). But the safety issues that are present are quite serious, including liver failure.  ( New York Times ) 
+ THE BIG PICTURE 
+Arizona children at risk of coverage loss under Obamacare repeal. The Obamacare repeal drama has mostly focused on what nixing the health law will mean for adults who buy coverage on the individual insurance marketplace (and the working poor who might lose their insurance if the Medicaid expansion is rolled back). But in at least one state, children's health care is at stake, too. That's because Arizona's KidsCare - the state's version of the Children's Health Insurance Program (CHIP), which covers kids from families who aren't quite poor enough to qualify for Medicaid - is funded by Obamacare. The program was frozen by Arizona lawmakers in 2010 but reinstated with the passage of the health law through at least the end of 2017. Its future is now decidedly uncertain.  ( NPR ) 
+ REQUIRED READING 
+Why Trump Ditching the TPP Could Hit Drug Makers Where It Hurts , by Sy Mukherjee 
+ 
+Big Investors Are Betting President Trump Won't Be Able to Dump Obamacare , by Reuters 
+ 
+Apple and Fitbit Dominated Holiday Sales of Wearables , by Aaron Pressman 
+ 
+The Dow Just Hit 20,000 for the First Time in History , by Lucinda Shen 
+ 
+[ceo_attribution author="Produced by Sy Mukherjee" email="sayak.mukherjee@fortune.com" twitter="the_sy_guy"] 
+ Find past coverage. Sign up for other Fortune  new
