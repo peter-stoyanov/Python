@@ -10,6 +10,12 @@
     sys.path.insert(0, '/my/path/python/packages')
 - pdb.set_trace() = Set a trace using Python Debugger
 - print(*some imported module*.__file__)
+- import this or antigravity
+
+# Notes
+- chain compaisons: 1 < 2 > 0 is True
+- indexing [incl, excl)
+- range() is generator - does not keep numbers in memory
 
 
 
