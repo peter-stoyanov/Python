@@ -4,8 +4,6 @@ along with their number of occurrences."""
 
 __author__ = "Petar Stoyanov"
 
-import collections
-
 def main(*args):
     """8 2.5 2.5 8 2.5
 
