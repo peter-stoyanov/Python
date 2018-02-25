@@ -13,6 +13,7 @@
             "pythonPath": "${config:python.pythonPath}",
             "program": "${file}",
             "cwd": "${workspaceFolder}",
+            "console": "externalTerminal",
             "env": {},
             "envFile": "${workspaceFolder}/.env",
             "debugOptions": [
